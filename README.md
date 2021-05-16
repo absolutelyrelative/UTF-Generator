@@ -5,6 +5,7 @@
 Download and execute with:
 
 chmod 777 utf8.sh
+
 ./utf8.sh > file.txt
 
 STDOUT redirection is not necessary.
