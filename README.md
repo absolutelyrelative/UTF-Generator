@@ -7,4 +7,4 @@ chmod 777 utf8.sh
 ./utf8.sh
 
 # Arguments
-//TODO
+Usage: utf8.sh [-s {0,...,6}] [-v [0,1]]
