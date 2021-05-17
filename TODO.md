@@ -1,2 +1,3 @@
 #TODOs
-1) Properly implement -s argument
+1) Implement Codepoint generation.
+2) Implement a third argument to select Codepoint generation.
